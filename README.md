@@ -22,17 +22,17 @@ All the classification methods that this chapter discusses can mainly be categor
        - F1 score = `79%`
     - This also discusses about the Precision Recall Trade-off with the following plots
 
-<p align="middle">
-  <img src="images/precision_recall_vs_threshold_plot.png" width="49%" />
-  <img src="images/precision_vs_recall_plot.png" width="49%" /> 
-</p>
- 
     - Base Estimator (Dumb Classifier)  with `91%` CV accuracy
     - Random Forest Classifier `RandomForestClassifier`
        - Precision = `99%`
        - Recall = `87.3%`
        - AUC score = `99.8%`
     - SGD and Random Forest Classifiers are then comparied using the ROC curve
+
+<p align="middle">
+  <img src="images/precision_recall_vs_threshold_plot.png" title="SGDClassifier" width="49%" />
+  <img src="images/precision_vs_recall_plot.png" title="SGDClassifier" width="49%" /> 
+</p>
 
 <p align="middle">
   <img src="images/roc_curve_comparison_plot.png" width="49%" />
