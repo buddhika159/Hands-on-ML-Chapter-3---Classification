@@ -46,7 +46,7 @@ All the classification methods that this chapter discusses can mainly be categor
       
     - `SGDClassifier` (or can use `RandomForestClassifier`, `Naive Bayes classifier`)
        - CV accuracy = `88.5%` 
-       - Simply standardizing the dataset using `StandardScaler`, it increases the CV accuracy to `89.5`
+       - Simply standardizing the dataset using `StandardScaler`, it increases the CV accuracy to `89.5%`
        - Analyzing the confusion matrices below, we see that SGD is misclassifying the digit `8` alot, but not all the time.
 
 <p align="middle">
