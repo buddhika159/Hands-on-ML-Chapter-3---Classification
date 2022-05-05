@@ -7,7 +7,7 @@
 ## Description:
 
 [The summary of Chapter 3](https://github.com/buddhika159/Hands-on-ML-Chapter-3---Classification/blob/d7fe2cc276fbf3243ba32319d9bed776da33e8be/MNIST-dataset-classification.ipynb)
-This repository includes the classification techeniqes discussed in the book [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf) chapter 8. It uses the MNIST dataset containing `70,000` images of handwritten digits. 
+This repository includes the classification techeniqes discussed in the book [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf) chapter 3. It uses the MNIST dataset containing `70,000` images of handwritten digits. 
 
 <p align="middle">
   <img src="images/more_digits_plot.png" width="49%" />
