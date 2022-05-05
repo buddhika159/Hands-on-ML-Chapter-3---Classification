@@ -68,7 +68,7 @@ All the classification methods that this chapter discusses can mainly be categor
 
 <p align="middle">
   <img src="images/KNeighborsClassifier Confusion Matrix.png" width="49%" />
-  <img src="images/SGDClassifier conf_mx over row_sums.png" width="49%" /> 
+  <img src="images/KNeighborsClassifier conf_mx over row_sums.png" width="49%" /> 
 </p>
 
  - Multioutput-multiclass Classification
